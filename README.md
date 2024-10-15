@@ -1,4 +1,4 @@
-# Portfolio Website (Next.js)
+# Portfolio Website
 
 This project is a **Portfolio Website** developed using **Next.js** and **Tailwind CSS**. The website is designed to showcase personal projects, skills, and professional experience in a visually appealing, high-performance, and SEO-friendly way. Perfect for developers, designers, or creatives looking to present their work in a professional manner.
 
