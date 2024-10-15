@@ -27,57 +27,62 @@ This project is a **Portfolio Website** developed using **Next.js** and **Tailwi
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/nextjs-portfolio-website.git
+       git clone https://github.com/kagan-dev/portfolio-website.git
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
-    bash
-
-cd nextjs-portfolio-website
+      cd nextjs-portfolio-website
 
 Install dependencies:
 
-bash
-
-npm install
+      npm install
 
 Run the development server:
 
-bash
-
-npm run dev
+      npm run dev
 
 Open your browser and visit:
-
-bash
 
     http://localhost:3000
 
 Folder Structure
+      
+      .
+      ├── public
+      │   ├── fonts
+      ├── src
+      │   ├── app
+      │   │   └── api
+      │   │       └── send
+      │   │           └── route.js
+      │   ├── en
+      │   │   └── components
+      │   │       ├── AboutSection.jsx
+      │   │       ├── Achivements.jsx
+      │   │       ├── EmailSection.jsx
+      │   │       ├── Footer.jsx
+      │   │       ├── HeroSection.jsx
+      │   │       ├── MenuOverlay.jsx
+      │   │       ├── Navbar.jsx
+      │   │       ├── NavLink.jsx
+      │   │       ├── ProjectCard.jsx
+      │   │       ├── ProjectsSection.jsx
+      │   │       ├── ProjectTag.jsx
+      │   │       └── TabButton.jsx
+      │   ├── tr
+      ├── styles
+      │   └── globals.css
+      ├── .env.local
+      ├── .eslintrc.json
+      ├── .gitignore
+      ├── jsconfig.json
+      ├── next.config.mjs
+      ├── package.json
+      ├── postcss.config.mjs
+      └── tailwind.config.js
 
-lua
 
-.
-├── public
-│   ├── images
-│   └── favicon.ico
-├── src
-│   ├── components
-│   │   ├── Navbar.js
-│   │   ├── Footer.js
-│   │   ├── Projects.js
-│   │   └── ContactForm.js
-│   ├── pages
-│   │   ├── index.js
-│   │   ├── about.js
-│   │   └── projects.js
-│   ├── styles
-│   │   └── globals.css
-├── README.md
-├── next.config.js
-├── tailwind.config.js
-└── package.json
+Folders Contents
 
     public/images: Stores static assets like your profile image and project thumbnails.
     src/components: Contains reusable components like the navigation bar, footer, and individual sections (projects, contact form, etc.).
