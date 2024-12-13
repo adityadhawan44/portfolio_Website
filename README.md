@@ -110,19 +110,4 @@ Future Enhancements
     Dark/Light Mode: Implement a toggle for dark and light themes.
     Testimonials: Include a section for client testimonials or reviews.
 
-Screenshots
-
-![resim](https://github.com/user-attachments/assets/5a29a10a-27a7-42bc-a4f4-f097dd19b95c)
-
-![resim](https://github.com/user-attachments/assets/db753aa6-74e6-4c79-919b-ae99e38209c9)
-
-![resim](https://github.com/user-attachments/assets/15f83c04-77ae-4c0d-8e37-498a39e66eb0)
-
-![resim](https://github.com/user-attachments/assets/6508f9fe-a70b-4112-8dc6-e1ff5700df7c)
-
-Contributions
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
-License
-
 This project is licensed under the MIT License.
