@@ -53,14 +53,14 @@ const EmailSection = () => {
         </p>
         <div className="socials flex flex-row gap-2">
           <Link
-            href="https://github.com/kagan-dev"
+            href="https://github.com/adityadhawan44"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link
-            href="https://linkedin.com/in/o%C4%9Fulka%C4%9Fan-mamak-472a45308"
+            href="https://linkedin.com/in/aditya-dhawan-987318ad"
             target="_blank"
             rel="noopener noreferrer"
           >

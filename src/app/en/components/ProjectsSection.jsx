@@ -10,9 +10,9 @@ const projectsData = [
     title: "React Portfolio Website",
     description:
       "A responsive portfolio built with React.js to showcase projects, skills, and experience with a clean and modern design.",
-    image: "/images/projects/image.png",
+    // image: "/images/projects/image.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/React-portfolio",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -20,9 +20,9 @@ const projectsData = [
     title: "Full Stack Whatsapp Web Clone",
     description:
       "A full-featured WhatsApp Web clone with real-time messaging, video calls, and group chats, built using modern full-stack technologies, web hooks and firebase.",
-    image: "/images/projects/whatsapp.png",
+    // image: "/images/projects/whatsapp.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/Whatsapp-clone",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -30,9 +30,9 @@ const projectsData = [
     title: "Full Stack Twitter (X) Clone",
     description:
       "A fully functional Twitter clone featuring tweet posting, likes, comments, and user profiles, built with a modern full-stack approach.",
-    image: "/images/projects/twitter.png",
+    // image: "/images/projects/twitter.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/Twitter-clone",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -40,9 +40,9 @@ const projectsData = [
     title: "Food Recepie Application",
     description:
       "An interactive application for discovering and searching recipes, featuring a dynamic search interface and real-time results, designed to inspire cooking enthusiasts.",
-    image: "/images/projects/recepie.png",
+    // image: "/images/projects/recepie.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/Recepie-App",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -50,9 +50,9 @@ const projectsData = [
     title: "Gym Membership Showcase Page",
     description:
       "A dynamic showcase page for a gym website that highlights classes, trainers, and membership options, designed to engage visitors and promote fitness programs.",
-    image: "/images/projects/gym.png",
+    // image: "/images/projects/gym.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/Gym-Website",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -60,16 +60,16 @@ const projectsData = [
     title: "Full-stack Advanced Dashboard Project",
     description:
       "A comprehensive dashboard application built with full-stack technologies, featuring data visualization, user analytics, and customizable widgets for real-time insights and management.",
-    image: "/images/projects/dashboard.png",
+    // image: "/images/projects/dashboard.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/kagan-dev/Advanced-Dashboard",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
     id: 7,
     title: "Full-stack E-commerce Website",
     description: "Project 5 description",
-    image: "/images/projects/6.png",
+    // image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
@@ -78,7 +78,7 @@ const projectsData = [
     id: 8,
     title: "Full-stack E-commerce Website",
     description: "Project 5 description",
-    image: "/images/projects/6.png",
+    // image: "/images/projects/6.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
@@ -87,7 +87,7 @@ const projectsData = [
     id: 9,
     title: "Full-stack E-commerce Website",
     description: "Project 5 description",
-    image: "/images/projects/6.png",
+    // image: "/images/projects/6.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",

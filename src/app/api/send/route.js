@@ -6,7 +6,7 @@ const fromEmail = process.env.FROM_EMAIL;
 
 export async function POST(req) {
   const { email, subject, message } = await req.json();
-  const mailer = process.env.RESEND_EMAIL_ADDRESS || fromEmail; // doğru isimlendirme
+  const mailer = process.env.RESEND_EMAIL_ADDRESS || fromEmail; // proper name
 
   console.log(email, subject, message);
 
@@ -45,7 +45,7 @@ export async function POST(req) {
               <a href="mailto:${email}" class="button">Reply to ${email}</a>
             </div>
             <div class="footer">
-              <p>&copy; 2024 Kagan Mamak. All rights reserved.</p>
+              <p>&copy; 2024 Aditya Dhawan. All rights reserved.</p>
             </div>
           </div>
         </body>

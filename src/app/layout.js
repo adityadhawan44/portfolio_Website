@@ -13,8 +13,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Kagan Mamak",
-  description: "Ogulkagan Mamak",
+  title: "Aditya Dhawan",
+  description: "Web Developer | Speaker",
 };
 
 export default function RootLayout({ children }) {
