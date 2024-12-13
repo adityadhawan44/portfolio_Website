@@ -27,7 +27,7 @@ This project is a **Portfolio Website** developed using **Next.js** and **Tailwi
 
 1. Clone the repository:
 
-       git clone https://github.com/kagan-dev/portfolio-website.git
+       git clone https://github.com/adityadhawan44/portfolio-website.git
 
 Navigate to the project directory:
 
