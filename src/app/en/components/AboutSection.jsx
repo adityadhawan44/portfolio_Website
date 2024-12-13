@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>CSS</li>
         <li>JavaScript</li>
         <li>React</li>
+        {/* <li>Firebase</li> */}
       </ul>
     ),
   },
@@ -26,6 +27,8 @@ const TAB_DATA = [
         <li>Delhi Technological University</li>
         <br />  
         <li>New Green Field School</li>
+        {/* <li>Kardelen Yazilim</li>
+        <li>Konya Organiza Sanayi Bolge Mudurlugu</li> */}
       </ul>
     ),
   },
@@ -38,7 +41,7 @@ const TAB_DATA = [
         <li>Html, CSS and Javascript for Web Developers</li>
         <li>Google SEO Fundementals</li>
         <li>Introduction to Google SEO</li>
-        {/* <li>Typescript Fundementals, Operators, Variables, Properties and Methods </li> */}
+        <li>Typescript Fundementals, Operators, Variables, Properties and Methods </li>
       </ul>
     ),
   },
@@ -61,9 +64,12 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a full-stack web developer with a passion for creating dynamic and scalable web applications. My expertise lies in building responsive, user-friendly platforms using modern frameworks and tools. As a creative Python programmer, I enjoy crafting efficient solutions for various technical challenges, particularly in data analysis and automation.
-
-Currently, I am pursuing a degree in Engineering Physics at Delhi Technological University, which has deepened my analytical and problem-solving skills. With strong communication abilities, I am also a confident speaker, effectively conveying complex ideas to diverse audiences
+            I am a full stack web developer with a passion for creating
+            interactive and responsive web applications. I have experience
+            working with JavaScript, TypeScript, React, Node.js, Express,
+            MongoDB, HTML, and CSS. I am a quick learner, always looking to
+            expand my knowledge and skill set. I enjoy collaborating with teams
+            and am excited to work with others to develop amazing applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

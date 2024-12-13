@@ -17,9 +17,9 @@ const HeroSection = () => {
             <br />
             <TypeAnimation
               sequence={[
-                "Aditya Dhawan",
+                "Aditya",
                 1000,
-                "Physics",
+                "Engineering Physics Student At DTU",
                 1000,
                 "Web developer",
                 1000,
@@ -36,8 +36,13 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Welcome!
-          I am a passionate junior full-stack web developer specializing in JavaScript, React, Node.js, and MongoDB. With a strong foundation and a drive to learn, I thrive on creating dynamic, scalable web applications that deliver seamless user experiences. Currently, I am combining my love for coding with my studies in Engineering Physics at Delhi Technological University. My goal is to contribute to innovative projects, collaborate with talented teams, and bring impactful solutions to life. Let’s build something great together!
+            Hello! I am a junior full-stack web developer with a strong
+            foundation in JavaScript, React, Node.js, and MongoDB. I am
+            passionate about creating dynamic and efficient web applications and
+            continuously seek opportunities to learn and enhance my coding
+            skills. My goal is to leverage my knowledge and enthusiasm to
+            contribute to innovative projects and collaborate with like-minded
+            professionals.
           </p>
           <div>
             <Link

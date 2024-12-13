@@ -12,7 +12,7 @@ const projectsData = [
       "A responsive portfolio built with React.js to showcase projects, skills, and experience with a clean and modern design.",
     // image: "/images/projects/image.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -22,7 +22,7 @@ const projectsData = [
       "A full-featured WhatsApp Web clone with real-time messaging, video calls, and group chats, built using modern full-stack technologies, web hooks and firebase.",
     // image: "/images/projects/whatsapp.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -32,7 +32,7 @@ const projectsData = [
       "A fully functional Twitter clone featuring tweet posting, likes, comments, and user profiles, built with a modern full-stack approach.",
     // image: "/images/projects/twitter.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -42,7 +42,7 @@ const projectsData = [
       "An interactive application for discovering and searching recipes, featuring a dynamic search interface and real-time results, designed to inspire cooking enthusiasts.",
     // image: "/images/projects/recepie.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -52,7 +52,7 @@ const projectsData = [
       "A dynamic showcase page for a gym website that highlights classes, trainers, and membership options, designed to engage visitors and promote fitness programs.",
     // image: "/images/projects/gym.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -62,7 +62,7 @@ const projectsData = [
       "A comprehensive dashboard application built with full-stack technologies, featuring data visualization, user analytics, and customizable widgets for real-time insights and management.",
     // image: "/images/projects/dashboard.png",
     tag: ["All", "Web"],
-    gitUrl: "",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {

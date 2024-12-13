@@ -6,7 +6,7 @@ const fromEmail = process.env.FROM_EMAIL;
 
 export async function POST(req) {
   const { email, subject, message } = await req.json();
-  const mailer = process.env.RESEND_EMAIL_ADDRESS || fromEmail; // proper name
+  const mailer = process.env.RESEND_EMAIL_ADDRESS || fromEmail; // doğru isimlendirme
 
   console.log(email, subject, message);
 
